@@ -1,0 +1,99 @@
+
+.searchItems{
+text-align: right;
+margin-left:50%;
+display:inline;
+}
+a:link {
+    text-decoration: none;
+      }
+
+  a:hover {
+    color: red;
+  }
+
+
+#randomClick{
+    float:left
+}
+
+#joinLink{
+cursor: pointer;}
+
+#search{
+    background-color: red;
+    font-size: 25px;
+}
+
+
+#loginButton{
+    border-color:1px black;
+    font-size: 15px;
+    width: 5%
+}
+
+.search_bar{
+    display: ruby-base-container;
+}
+
+#searchBox{
+    width: 1000px;
+    height: 35px;
+    text-size-adjust:20px;
+}
+
+img{
+width:200px;
+height:250px;
+float:left;
+}
+
+.body{
+    margin-top: 5%;
+}
+/*  */
+
+  #package{
+    
+    background-color: rgb(137, 137, 206);
+  color:black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /*display: inline-block;*/
+  font-size: 20px;
+  width: 35%;
+  border-bottom-color:purple;
+  cursor: pointer;
+
+  }
+
+  #organization{
+     background-color:rgb(179, 212, 179);
+  color:black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  width: 35%;
+  border-bottom-color:blue;
+  cursor: pointer;
+
+  }
+
+
+  /********/
+
+
+
+  #footer{
+    display: flex;
+    margin-top:250px; 
+    justify-content: space-around;
+  }
+
+
+  #text{
+      color:red;
+  }
